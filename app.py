@@ -1,2 +1,2 @@
 print("hello git")
-print("example for git")
+print("hie sahana")
